@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/setparam"
+        android:title="设置"/>
+    <item
+        android:id="@+id/choose_id"
+        android:title="选择展示ID号"/>
+</menu>

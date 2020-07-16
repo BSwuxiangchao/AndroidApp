@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrbCodeScaner</string>
+    <string name="ServerIP">10.10.6.186</string>
+    <string name="ServerPort">12901</string>
+</resources>
